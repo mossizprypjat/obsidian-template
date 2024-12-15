@@ -52,6 +52,7 @@ setInterval(updateProgressBar, 500, progressBar);
 ```
 
 - [x] **1 Done chapter**
+  info about the chapter blabla, this chapter will not show up in `Tasks.md`.
 
 |     | Gelezen | Geleerd | Oefeningen |
 | --- | --- | --- | --- |
@@ -59,6 +60,7 @@ setInterval(updateProgressBar, 500, progressBar);
 | uur | 0   | 0   | 0   |
 
 - [ ] **2 Todo Chapter**
+  blablabla, this chapter will show up in `Tasks.md`.
 
 |     | Gelezen | Geleerd | Oefeningen |
 | --- | --- | --- | --- |
