@@ -8,4 +8,4 @@ In the Dataview plugin enable JavaScript queries and enable inline JavaScript qu
 Now you are ready to go!
 
 # usage
-to 
+You will have to copy paste the chapters of your course, make them all a task (by simply writing `- [ ]` in front of it) and then paste the table after it (if you want it).
