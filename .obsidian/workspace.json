@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "3353c1f0abb4ffc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7735b0dfffac26b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02beb5794f41ba5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/example_course.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "example_course"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6988dadabcd1b26",
+    "type": "split",
+    "children": [
+      {
+        "id": "41579ab4083e5ddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18759be7d28eb8c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5a79a091bd0e775a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "24a42fce5eb4f07c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d85e30ae8ecbff68",
+    "type": "split",
+    "children": [
+      {
+        "id": "31dfef226c734292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad10994eaa1973b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tasks"
+            }
+          },
+          {
+            "id": "112ff4f98403efe6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tasks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tasks"
+            }
+          },
+          {
+            "id": "9fc15ed3b0a869c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "85728534827327c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tasks.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tasks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "02beb5794f41ba5b",
+  "lastOpenFiles": [
+    "Tasks.md",
+    "README.md",
+    "Tasks/example_course.md"
+  ]
+}
